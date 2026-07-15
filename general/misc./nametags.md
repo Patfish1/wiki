@@ -13,5 +13,7 @@ Vibe features customized nametags for players that features Server Rank, Ping, C
 * Your [server level](../leveling.md) will be shown with a star symbol that changes color depending on level at the bottom of nametags
 * Health Points are shown with a red heart smiley next to your server level
 * Hunger Points are shown with a orange hunger symbol at the bottom right of nametags
+* Additionally, [V8](../ranks.md#vip-tier-8) and [Benefactors](../ranks.md#benefactor) will have a Animated Sparkling Star Hologram above their head
 
-A blue "zZz" symbol will appear with a timer with AFK time above a nametag when a player is AFK (Away From Keybaord)
+
+When the player is AFK (Unactive for a period of time), A Blue "zZz" symbol with total AFK time and a Bed Hologram will show up above their head
