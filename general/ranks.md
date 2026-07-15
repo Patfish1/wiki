@@ -141,6 +141,29 @@ Vibe features six VIP tier ranks with an increasing amount of non pay to win exc
   \
   [Command descriptions](commands.md#vip-exclusive)
 
+#### Vip Tier 7
+
+<img src="../.gitbook/assets/v7_icon_b.png" alt="" data-size="original">
+
+* All previous tiers' perks
+* [Personal waypoint](../survival/tweak-list/personal-waypoints.md) limit **32 > 40**
+* Additional Public Waypoints, Creative Plots and Parkour Courses by request
+* **+75%** faster survival [utility fly](../survival/tweak-list/utility-flight.md) speed
+* **HEX** color picker for [nametag decorations](profile-and-customization/nametag-decorations.md)
+* `/toinv` Toggle block & mob drops going directly into inventory\
+  \
+  [Command descriptions](commands.md#vip-exclusive)
+
+#### Vip Tier 8
+
+<img src="../.gitbook/assets/v8_icon_b.png" alt="" data-size="original">
+
+* All previous tiers' perks
+* **+90%** faster survival [utility fly](../survival/tweak-list/utility-flight.md) speed
+* **Instant Teleports** with no warm up delay
+* **Unlimited** personal & resource waypoints
+* **Sparkling Animated Star** above your player in-game
+  
 </details>
 
 ## Benefactor
@@ -154,9 +177,7 @@ Benefactors are allowed to request special accommodations within reason, such as
 **Unlocks perks:**
 
 * All previous tiers' perks (excluding claim blocks)
-* Skipping teleportation warm up time
 * Being able to **`/hug all`** players
-* [Personal waypoint](../survival/tweak-list/personal-waypoints.md) limit **32 > Limitless**
 
 ## Moderator / Helper
 
